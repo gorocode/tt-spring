@@ -2,9 +2,8 @@
 
 <div align="center">
   <p>
-    <a href="../README.md">Main Documentation</a> •
-    <a href="../tt-react/README.md">Frontend Documentation</a> •
-    <a href="../API.md">API Documentation</a>
+    <a href="https://github.com/gorocode/tt-bar-manager">Main Repository</a> •
+    <a href="https://github.com/gorocode/tt-react">Frontend Repository</a>
   </p>
 </div>
 
